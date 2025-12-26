@@ -1,0 +1,2 @@
+data cleaning is the process of findingand fixing incorrec t ,corrupted,incomplete,or 
+irrelevent data in datasets
